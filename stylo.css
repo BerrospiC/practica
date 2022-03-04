@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    
+
+}
+
+.oferta {
+    background: #06d8fd;
+    margin: 0;
+    padding: 0;
+}
+
+
+.oferta h2{
+    text-align: center;
+    color: white;
+}
+
+.oferta span{
+    color: black;
+}
+h1{
+    color:#1d3557
+
+}
+
+
+
+ul{
+    list-style-type: none;
+    background-color: #004552;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+}
+
+li
+{float: left;
+
+}
+li a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+li a:hover{
+   background-color:  #1d3557;
+}
+
+.titulo{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+.titulo h1{
+    text-align: center;
+    margin-top: 1em;
+    background-color: white;
+}
+
+.titulo p{
+    text-align: center;
+    margin: 0;
+    background-color: white;
+}
+.divider{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(231, 231, 231);
+}
+
+.contenido{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+
+    
+    
+    
+}
+
+.modelo{
+    border: solid black;
+    width: 10%;
+    height: 350px;
+    
+    
+    margin: 50px;
+   
+    
+}
+
+.contenido .img img{
+    width: 150px;
+    margin: auto;
+    display: block;
+}
+.titulo h3{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    
+}
+
+.titulo  a{
+    color: aqua;
+    text-decoration: none;
+    display: flex;
+    font-size: 15px;
+    position: relative;
+    left: 60px;
+
+}
